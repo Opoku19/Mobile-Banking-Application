@@ -102,7 +102,7 @@ Contributions to the mobile banking application are welcome! If you would like t
 5. Open a pull request to the main repository, describing your changes and the purpose of the pull request.
 
 ## License
-This mobile banking application is open-source and is licensed under the [MIT License](LICENSE)\\
+This mobile banking application is open-source and is licensed under the [MIT License](LICENSE)
 
 ## Collaborators
 
