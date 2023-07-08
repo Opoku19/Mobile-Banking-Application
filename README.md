@@ -116,8 +116,60 @@ This mobile banking application is open-source and is licensed under the [MIT Li
       Bertram-10979761
       Gorden----
 
+## Roles of the Collaborators
+
+Based on the constraints of the project, the following roles can be assigned to the collaborators:
+
+1. Opoku Boakye
+   - Role: Project Manager
+   - Responsibilities:
+     - Overall project coordination and management.
+     - Task delegation and tracking.
+     - Ensuring project milestones and deadlines are met.
+     - Communication with team members and stakeholders.
+
+2. Elisha
+   - Role: Lead Android Developer
+   - Responsibilities:
+     - Designing and implementing the Android application architecture.
+     - Developing core features and functionality.
+     - Collaborating with other developers to integrate APIs and databases.
+     - Ensuring code quality and adherence to best practices.
+
+3. Paul
+   - Role: Backend Developer
+   - Responsibilities:
+     - Designing and developing the server-side APIs and database.
+     - Implementing security measures for data storage and communication.
+     - Integrating payment gateways and external services.
+     - Collaborating with the frontend team for data exchange.
+
+4. Nathaniel
+   - Role: UI/UX Designer
+   - Responsibilities:
+     - Designing the user interface and user experience of the mobile application.
+     - Creating wireframes, prototypes, and visual designs.
+     - Collaborating with the frontend developers to ensure UI implementation matches the design.
+     - Conducting user research and testing to gather feedback for iterative design improvements.
+
+5. Presely
+   - Role: Frontend Developer
+   - Responsibilities:
+     - Implementing UI layouts and views based on the design specifications.
+     - Handling user interactions and input validation.
+     - Collaborating with backend developers for data exchange and integration.
+     - Ensuring responsiveness and compatibility across different devices and screen sizes.
+
+6. Gilbert
+   - Role: Database Administrator
+   - Responsibilities:
+     - Designing and setting up the database schema.
+     - Managing and optimizing database performance.
+     - Implementing data backup and recovery procedures.
+     - Ensuring data integrity and security.
+
 
 ## Contact
-For any inquiries or feedback, please contact the development team at [email protected]
+For any inquiries or feedback, please contact the development team at kaopoku-boakye@st.ug.edu.gh
 
 Feel free to update and customize this README file according to your specific project requirements and add relevant sections such as architecture, installation instructions, screenshots, etc.
