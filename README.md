@@ -118,9 +118,7 @@ This mobile banking application is open-source and is licensed under the [MIT Li
 
 ## Roles of the Collaborators
 
-Based on the constraints of the project, the following roles can be assigned to the collaborators:
-
-1. Opoku Boakye
+1. Opoku Boakye-10947727
    - Role: Project Manager
    - Responsibilities:
      - Overall project coordination and management.
@@ -128,7 +126,7 @@ Based on the constraints of the project, the following roles can be assigned to 
      - Ensuring project milestones and deadlines are met.
      - Communication with team members and stakeholders.
 
-2. Elisha
+2. Elisha-10940920
    - Role: Lead Android Developer
    - Responsibilities:
      - Designing and implementing the Android application architecture.
@@ -136,7 +134,7 @@ Based on the constraints of the project, the following roles can be assigned to 
      - Collaborating with other developers to integrate APIs and databases.
      - Ensuring code quality and adherence to best practices.
 
-3. Paul
+3. Paul-10960583
    - Role: Backend Developer
    - Responsibilities:
      - Designing and developing the server-side APIs and database.
@@ -144,7 +142,7 @@ Based on the constraints of the project, the following roles can be assigned to 
      - Integrating payment gateways and external services.
      - Collaborating with the frontend team for data exchange.
 
-4. Nathaniel
+4. Nathaniel-10970773
    - Role: UI/UX Designer
    - Responsibilities:
      - Designing the user interface and user experience of the mobile application.
@@ -152,7 +150,7 @@ Based on the constraints of the project, the following roles can be assigned to 
      - Collaborating with the frontend developers to ensure UI implementation matches the design.
      - Conducting user research and testing to gather feedback for iterative design improvements.
 
-5. Presely
+5. Presely-10966026
    - Role: Frontend Developer
    - Responsibilities:
      - Implementing UI layouts and views based on the design specifications.
@@ -160,7 +158,7 @@ Based on the constraints of the project, the following roles can be assigned to 
      - Collaborating with backend developers for data exchange and integration.
      - Ensuring responsiveness and compatibility across different devices and screen sizes.
 
-6. Gilbert
+6. Gilbert-10978730
    - Role: Database Administrator
    - Responsibilities:
      - Designing and setting up the database schema.
@@ -168,6 +166,29 @@ Based on the constraints of the project, the following roles can be assigned to 
      - Implementing data backup and recovery procedures.
      - Ensuring data integrity and security.
 
+7. Phina--10961638
+   - Role: Quality Assurance (QA) Tester
+   - Responsibilities:
+     - Creating and executing test cases to ensure application functionality and reliability.
+     - Identifying and reporting bugs, issues, and usability concerns.
+     - Collaborating with developers to resolve and verify bug fixes.
+     - Conducting regression testing and performance testing.
+
+8. Bertram-10979761
+   - Role: Documentation Specialist
+   - Responsibilities:
+     - Creating and maintaining project documentation, including requirements, design documents, and user guides.
+     - Writing and updating the project's README file and documentation on version control platforms.
+     - Assisting with creating API documentation and technical documentation for developers.
+     - Ensuring documentation is accurate, up-to-date, and accessible to the team and stakeholders.
+
+9. Gorden----
+   - Role: Deployment and DevOps Engineer
+   - Responsibilities:
+     - Setting up the deployment infrastructure for the mobile banking application.
+     - Configuring continuous integration and delivery pipelines.
+     - Managing and automating the deployment process.
+     - Monitoring application performance and scalability.
 
 ## Contact
 For any inquiries or feedback, please contact the development team at kaopoku-boakye@st.ug.edu.gh
