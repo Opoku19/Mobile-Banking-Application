@@ -45,6 +45,27 @@ The mobile banking application offers the following features:
 - Retrofit: HTTP client library for making API requests to the server.
 - JSON: Data interchange format used for API communication.
 - Gradle: Build system used for building and managing dependencies.
+- Parse database
+- Retrofit
+- Fragment
+- OOP
+- State Design Pattern
+
+## This app features:
+
+    Send money to another account
+    Send money between own accounts
+    Creating a bank account
+    Creation of credit card
+    Seeing the history of transactions
+    Change of loan amount and rate according to profession group
+    Loan payment
+    Purchase of top 25 cryptocurrencies at Current values
+    Storing the purchased crypto money (in this way, you can see the increase or decrease in value when you buy crypto money imaginary)
+    Adding and paying the invoice
+    Change user account settings
+    Admin panel
+
 
 ## Getting Started
 To run the mobile banking application locally, follow these steps:
@@ -85,8 +106,15 @@ This mobile banking application is open-source and is licensed under the [MIT Li
 
 ## Collaborators
 
-    Micheal Opoku Boakye
-
+      Opoku Boakye-10947727
+      Elisha-10940920
+      Paul-10960583
+      Nathaniel-10970773
+      Presely-10966026
+      Gilbert-10978730
+      Phina--10961638
+      Bertram-10979761
+      Gorden----
 
 
 ## Contact
